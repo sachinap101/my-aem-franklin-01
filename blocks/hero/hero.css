@@ -14,7 +14,6 @@
   margin-left: auto;
   margin-right: auto;
   color: var(--background-color);
-    color: red;
 }
 
 .hero picture {
@@ -33,6 +32,6 @@
 
 @media (width >= 900px) {
   .hero {
-    padding: 80px 32px;
+    padding: 40px 32px;
   }
 }
